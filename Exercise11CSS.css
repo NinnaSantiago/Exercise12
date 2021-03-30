@@ -1,0 +1,77 @@
+*{
+    box-sizing: border-box;
+}
+
+@media screen and (max-width:768px){
+    /*for tablet*/
+    div {
+        width: 100%
+    }
+    .one {
+        width: 100%
+    }
+    .two {
+        width: 100%
+    }
+    .three {
+        width: 100%
+    }
+    .four {
+        width: 100% 
+    }
+    .five {
+        width: 100%
+    }
+    .six {
+        width: 100%
+    }
+    .seven {
+        width: 49.5%
+    }
+    .eight {
+        width: 49.5%
+    }
+    .nine {
+        width: 49.5%
+    }
+    .ten {
+        width: 49.5%
+    }
+}
+@media screen and (max-width:320px){
+    /*for mobile*/
+    div {
+        width: 100%
+    }
+    .one {
+        width: 100%
+    }
+    .two {
+        width: 100%
+    }
+    .three {
+        width: 100%
+    }
+    .four {
+        width: 100%
+    }
+    .five {
+        width: 100%
+    }
+    .six {
+        width: 100%
+    }
+    .seven {
+        width: 100%
+    }
+    .eight {
+        width: 100%
+    }
+    .nine {
+        width: 100%
+    }
+    .ten {
+        width: 100%
+    }
+}
+}    
