@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <head>
-    <title>Exercise11</title>
-    <link href="Exercise12.css" rel="stylesheet">
+    <title>exercise12</title>
+    <link href="exercise12.css" rel="stylesheet">
     <meta name="author" content="Ninna Alessandra Santiago">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="CSS">
